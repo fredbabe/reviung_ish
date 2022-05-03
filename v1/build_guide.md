@@ -1,5 +1,8 @@
 # Build guide
 
+### Components:
+Most of the components can be bought from EU vendors: splitkb or keycapsss.
+
 | Component  | Amount |
 | ------------- | ------------- |
 | 1N4148 SMD Diodes  | 56  |
