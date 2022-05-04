@@ -44,4 +44,4 @@ Remember when you cut the legs of the sockets and reset button on the back board
 It could be easier to solder the sockets after the diodes, but i like to test the board before soldering the sockets. The bumpers can be put as shown in the second picture above. You could insert extra 3M bumpers if you feel for it. They just need to be high enough to go above the sockets. I bought mine through keycapsss.com and they were perfect.
 
 ### Firmware
-The firmware can be installed by navigating into the qmk/keyboard/reviung_ish/keymap/default, which is found in this repo, and then qmk flash. You need to have the qmk environment installed which can be found from their website.
+The firmware can be installed by navigating in your termnial into the qmk folder in this repo: qmk/keyboard/reviung_ish/keymap/default, and then qmk flash. You need to have the qmk environment installed which can be found from their website. You can either create your own keymap or just alter the default one locally and flash that one.
