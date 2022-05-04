@@ -11,7 +11,7 @@ The bottom row has 7 keys where 2 of them can be 1.5 units and the middle 2 unit
 <strong>One note is that the 2U key in the middle of the bottom row is a bit tight to insert the switch since i forgot to make the holes the correct size. But its not a problem, just a bit tight. You could prepare a switch before soldering by inserting the switch into the tight switch hole and take it off again. Then use that switch when the socket has been soldered. If in doubt, just hit me up on discord: https://discord.gg/aTsAaWN5tc</strong>. 
 
 ![picture1](https://github.com/fredbabe/reviung_ish/blob/main/pictures/picture1.jpg)
-![picture2](https://github.com/fredbabe/reviung_ish/blob/main/pictures/picture1.jpg)
+![picture2](https://github.com/fredbabe/reviung_ish/blob/main/pictures/picture2.jpg)
 
 You will find a short build guide below, and if you want to have extra PCB or haven't got yours yet you can catch me on discord: https://discord.gg/aTsAaWN5tc.
 
