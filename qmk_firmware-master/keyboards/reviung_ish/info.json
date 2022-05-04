@@ -1,0 +1,20 @@
+{
+    "manufacturer": "Frederik",
+    "keyboard_name": "reviung_ish",
+    "maintainer": "Frederik",
+    "bootloader": "atmel-dfu",
+    "diode_direction": "COL2ROW",
+    "features": {
+    },
+    "matrix_pins": {
+    },
+    "processor": "atmega32u4",
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+    }
+}
