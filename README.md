@@ -1,6 +1,7 @@
 # reviung_ish
+In this readme you find information about the keyboard, build guide and how to flash it.
 
-## Introduction
+### Introduction
 Welcome! 
 
 Reviung_ish is a child born from the original reviung. This keyboard features choc switches (Only compatible with choc switches), choc space and a number row. The default keymap is my 'base' layout which i try to use across all my boards, though still WIP. The keymap consists of combos and 1 layer. I like to have various ways to use my keboards which is why i combine combo use with normal use e.g. having enter as combo (C, V) and a regular enter key. This is what feels most ergonomic for me. But feel free to modify it to your liking!
@@ -16,7 +17,7 @@ You will find a short build guide below, and if you want to have extra PCB or ha
 
 # Build guide
 
-## Components:
+### Components:
 Most of the components can be bought from EU vendors: splitkb or keycapsss.
 
 | Component  | Amount |
@@ -30,7 +31,7 @@ Most of the components can be bought from EU vendors: splitkb or keycapsss.
 | Micro usb cable | 1 |
 
 
-## Soldering
+### Soldering
 
 I start of soldering one side of each pad of the diodes pad as well the hotswap pads.
 
@@ -41,3 +42,6 @@ When the diodes is soldered on, i would start on the micro controller. <strong>S
 Remember when you cut the legs of the sockets and reset button on the back board, after solder it on, to use some sort of eye protection! The legs will fly over when flushed.
 
 It could be easier to solder the sockets after the diodes, but i like to test the board before soldering the sockets. The bumpers can be put as shown in the second picture above. You could insert extra 3M bumpers if you feel for it. They just need to be high enough to go above the sockets. I bought mine through keycapsss.com and they were perfect.
+
+### Firmware
+The firmware can be installed by navigating into the qmk/keyboard/reviung_ish/keymap/default, which is found in this repo, and then qmk flash. You need to have the qmk environment installed which can be found from their website.
