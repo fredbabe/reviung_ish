@@ -29,4 +29,6 @@ Afterwards i solder the diodes on first, you could take inspiration of the Lily5
 
 When the diodes is soldered on, i would start on the micro controller. <strong>Solder the pro micro face down (Components towards the pcb)!.</strong> Afterwards solder the reset button. Then i would install the firmware and test with a tweezer that everything works. When all good, the solder the hotswaps on and wolla, your done :))
 
+Remember when you cut the legs of the sockets and reset button on the back board, after solder it on, to use some sort of eye protection! The legs will fly over when flushed.
+
 It could be easier to solder the sockets after the diodes, but i like to test the board before soldering the sockets. The bumpers can be put as shown in the second picture above. You could insert extra 3M bumpers if you feel for it. They just need to be high enough to go above the sockets. I bought mine through keycapsss.com and they were perfect.
