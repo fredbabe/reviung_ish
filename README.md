@@ -37,7 +37,7 @@ I start of soldering one side of each pad of the diodes pad as well the hotswap 
 
 Afterwards i solder the diodes on first, you could take inspiration of the Lily58 build guide. Remember to solder the diodes in the correct oriantation as the arrow shows. See picture below:
 
-
+![picture3](https://github.com/fredbabe/reviung_ish/blob/main/pictures/IMG-3101.jpg)
 
 When the diodes is soldered on, i would start on the micro controller. <strong>Solder the pro micro face down (Components towards the pcb)!.</strong> Afterwards solder the reset button. Then i would install the firmware and test with a tweezer that everything works. When all good, the solder the hotswaps on and wolla, your done :))
 
